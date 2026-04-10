@@ -1,0 +1,82 @@
+[
+  {
+    "id": "p-101",
+    "name": "MicroFlip Neo Smartphone",
+    "category": "Mobiles",
+    "price": 18999,
+    "rating": 4.6,
+    "stock": 14,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80",
+    "description": "A stylish 5G smartphone with a smooth AMOLED display, all-day battery life, and a powerful triple camera setup."
+  },
+  {
+    "id": "p-102",
+    "name": "AeroBook Slim Laptop",
+    "category": "Electronics",
+    "price": 55999,
+    "rating": 4.5,
+    "stock": 9,
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=80",
+    "description": "Lightweight performance laptop with a sharp display, fast SSD storage, and dependable battery backup for work or study."
+  },
+  {
+    "id": "p-103",
+    "name": "Pulse Pro Headphones",
+    "category": "Audio",
+    "price": 3999,
+    "rating": 4.4,
+    "stock": 28,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+    "description": "Over-ear wireless headphones with active noise cancellation, deep bass, and comfortable ear cushions."
+  },
+  {
+    "id": "p-104",
+    "name": "Urban Runner Shoes",
+    "category": "Fashion",
+    "price": 2499,
+    "rating": 4.3,
+    "stock": 22,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+    "description": "Breathable running shoes designed for daily comfort, lightweight movement, and versatile streetwear styling."
+  },
+  {
+    "id": "p-105",
+    "name": "Classic Denim Jacket",
+    "category": "Fashion",
+    "price": 1899,
+    "rating": 4.2,
+    "stock": 18,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80",
+    "description": "A timeless denim jacket with clean stitching, practical pockets, and a comfortable regular fit."
+  },
+  {
+    "id": "p-106",
+    "name": "GlowMix Smart Blender",
+    "category": "Home",
+    "price": 3299,
+    "rating": 4.1,
+    "stock": 16,
+    "image": "https://images.unsplash.com/photo-1570222094114-d054a817e56b?auto=format&fit=crop&w=900&q=80",
+    "description": "Compact kitchen blender for smoothies, shakes, and quick prep with multiple speed controls."
+  },
+  {
+    "id": "p-107",
+    "name": "Minimal Desk Lamp",
+    "category": "Home",
+    "price": 1499,
+    "rating": 4.4,
+    "stock": 30,
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80",
+    "description": "Warm LED desk lamp with adjustable brightness and a clean profile that fits modern workspaces."
+  },
+  {
+    "id": "p-108",
+    "name": "VisionFit Smart Watch",
+    "category": "Wearables",
+    "price": 6999,
+    "rating": 4.5,
+    "stock": 11,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+    "description": "Fitness smartwatch with heart-rate tracking, sleep insights, workout modes, and vibrant watch faces."
+  }
+]
